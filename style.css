@@ -1,0 +1,24 @@
+p{
+    color: mediumaquamarine;
+    font-size: 32px;
+}
+/*Utilizando IDs */
+#parag-1{
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 35px;
+    color: deeppink;
+}
+
+#parag-2{
+    font-style: normal;
+    font-size: 25px;
+    color: brown;
+}
+/* Utilizando Classes */
+.ret-0{
+
+}
+.ret-1{
+
+}
